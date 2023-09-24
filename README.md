@@ -1,1 +1,1 @@
-Javascript codes
+Multiple javascript codes to study
